@@ -7,7 +7,7 @@ I enjoy learning new technologies and building small projects to improve my skil
 
 ### About Me
 - Currently learning Python, C++, and Java  
-- Experimenting with Roblox game development  
+- Experimenting with scripting and asynchronous bots
 - Interested in web development and desktop apps  
 - Always looking to improve and try new challenges
 
