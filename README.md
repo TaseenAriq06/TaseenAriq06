@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Taseen Ariq</h1>
+<h1>Hi 👋, I'm Taseen</h1>
 <h3>Computer Science Student & Software Engineer Intern</h3>
 
 ---
