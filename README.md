@@ -13,20 +13,6 @@ I am a Computer Science student at Queens College focusing on software developme
 
 ---
 
-### Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/taseenariq06" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:taseenariq06@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
-  </a>
-</p>
-
----
-
 ### Languages and Tools
 
 <p align="left"> 
@@ -45,4 +31,18 @@ I am a Computer Science student at Queens College focusing on software developme
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/taseenariq06" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:taseenariq06@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
+  </a>
 </p>
