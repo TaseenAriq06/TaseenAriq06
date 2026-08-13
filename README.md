@@ -1,5 +1,5 @@
 <h1 align="center">Taseen Ariq</h1>
-<h3 align="center">Computer Science Student & Full-Stack Developer</h3>
+<h3 align="center">Computer Science Student & Software Engineer Intern</h3>
 
 ---
 
