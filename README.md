@@ -1,30 +1,26 @@
 <h1 align="center">Taseen Ariq</h1>
 <h3 align="center">Computer Science Student & Full-Stack Developer</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=taseenariq06&label=Profile%20views&color=0e75b6&style=flat" alt="taseenariq06" /> 
-</p>
-
 ---
 
 ### About Me
 
-I am a Computer Science student at Queens College with a strong focus on full-stack software development. My experience centers around architecting robust backend systems, building responsive user interfaces, and designing RESTful APIs using modern frameworks. 
+I am a Computer Science student at Queens College focusing on software development. My experience centers around working with backend systems, building responsive user interfaces, and designing RESTful APIs using modern frameworks. 
 
-* **Education:** B.S. in Computer Science at Queens College (Expected Fall 2026)
-* **Focus Areas:** Full-Stack Web Development, Database Architecture, and System Design
-* **Experience:** Background in collaborating on production-ready educational platforms and engineering dynamic web applications using React and Django.
+* **Education:** B.A. in Computer Science at Queens College (Expected Fall 2028)
+* **Focus Areas:** Web Development & Asynchronous bots
+* **Experience:** Background in collaborating on production-ready educational platforms and engineering dynamic web applications
 
 ---
 
 ### Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/taseenariq06" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:taseenariq06@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
   </a>
 </p>
