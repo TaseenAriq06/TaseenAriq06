@@ -43,7 +43,6 @@
   <a href="https://linkedin.com/in/taseenariq06" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  &nbsp;
   <a href="mailto:taseenariq06@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
   </a>
