@@ -8,7 +8,7 @@
 I am a Computer Science student at Queens College focusing on software development. My experience centers around working with backend systems, building responsive user interfaces, and designing RESTful APIs using modern frameworks. 
 
 * **Education:** B.A. in Computer Science at Queens College (Expected Spring 2028)
-* **Focus Areas:** Web Development & Asynchronous bots
+* **Focus Areas:** Web Development & Asynchronous bots and applications
 * **Experience:** Background in collaborating on production-ready educational platforms and engineering dynamic web applications
 
 ---
